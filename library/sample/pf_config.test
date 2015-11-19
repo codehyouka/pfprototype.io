@@ -1,0 +1,15 @@
+module.export=configs;
+
+configs={
+        database:{
+                "defaul":{
+                "driver":"mysql"    
+                
+                }
+                
+        
+            },
+        "module":"app/",
+        "customize_configuration_file":[]    
+        
+    };

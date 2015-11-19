@@ -1,0 +1,38 @@
+{
+  "name": "pfprototype.io",
+  "version": "0.0.1",
+  "description": "PF Mvc Application prototype concept",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+"dependencies":{
+		"express":"*",
+		"ejs":"*",
+		"mongoose":"*",
+		"socket.io":"*",
+		"jade":"*",
+		"mysql":"*",
+		"ejs-locals":"*"
+	},
+   "devDependencies": {
+    "mocha": "1.16.2",
+    "expect.js": "0.3.1",
+    "supertest": "0.8.2",
+    "superagent": "0.17.0",
+    "istanbul": "0.2.3"
+  },      
+  "files": [
+    "LICENSE",
+    "History.md",
+    "Readme.md",
+    "index.js",
+    "library/"
+  ],      
+	"devDependencies":{},
+	"bundleDependencies":[],
+	"main":"index.js",
+	
+  "author": "Pein Freccs",
+  "license": "MIT"
+}

@@ -1,0 +1,14 @@
+{
+    
+    "web":{
+        [
+        "routes":"/[@controller=home]/[@action=any]"
+        "defauls":"home",
+        "method":"get"
+        ]
+    },
+    "socket":{
+        
+    }
+    
+}
