@@ -1,6 +1,6 @@
 {
   "name": "pfprototype.io",
-  "version": "0.0.1",
+  "version": "1.0.1",
   "description": "PF Mvc Application prototype concept",
   "main": "index.js",
   "scripts": {
@@ -8,13 +8,7 @@
   },
 "dependencies":{
 		"express":"*",
-		"ejs":"*",
-		"mongoose":"*",
-		"socket.io":"*",
-		"jade":"*",
-		"mysql":"*",
-		"ejs-locals":"*",
-		"pf-utilities.io": "git://github.com/hyoukageass/pf-utilities.io.git"	
+		"pf-utilities.io": "https://github.com/codehyouka/pf-utilities.io.git"	
 	},
    "devDependencies": {
     "mocha": "1.16.2",
