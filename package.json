@@ -13,7 +13,8 @@
 		"socket.io":"*",
 		"jade":"*",
 		"mysql":"*",
-		"ejs-locals":"*"
+		"ejs-locals":"*",
+		"pf-utilities.io": "git://github.com/hyoukageass/pf-utilities.io.git"	
 	},
    "devDependencies": {
     "mocha": "1.16.2",
